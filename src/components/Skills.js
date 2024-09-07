@@ -1,7 +1,6 @@
 import React, { Fragment } from 'react'
-import {SiJavascript,SiMicrosoftsqlserver,SiNodedotjs,SiDotnet,SiReact,SiHtml5,SiCss3,SiBootstrap,SiCsharp,SiMongodb,SiExpress,SiPug} from 'react-icons/si'
 function Skills() {
-  return (
+return (
     <Fragment>
         <div className="col py-3 d-flex align-items-center"> 
             <div className="container">
